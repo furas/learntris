@@ -1,3 +1,7 @@
+Oryginalna wersja (po angielsku): [https://github.com/LearnProgramming/learntris](https://github.com/LearnProgramming/learntris)
+
+---
+
 The Learntris Challenge
 =======================
 
