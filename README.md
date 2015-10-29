@@ -1,6 +1,24 @@
 Oryginalna wersja (po angielsku): [https://github.com/LearnProgramming/learntris](https://github.com/LearnProgramming/learntris)
 
+Przykład gry w Tetris rozbudowanej już po zakończeniu tego "wyzwania"
+[https://github.com/robin-vjc/pytetris](https://github.com/robin-vjc/pytetris)
+
 ---
+[PL]
+
+Wyzwanie Learntris
+==================
+
+To reozytorium zawiera serię zautomatyzowanych testów, 
+które będą Cię prowadzić przez proces tworzenia 
+swojej własnej wersji sławnej gry w spadajace klocki.
+
+Ta gra jest dość małym projektem odpowiednim dla początkujących,
+którzy rozumieją podstawe pojęcia z zakresu programowania, 
+a także dla doświadczonych twórców chcących poznać nowy język.
+
+---
+[GB]
 
 The Learntris Challenge
 =======================
